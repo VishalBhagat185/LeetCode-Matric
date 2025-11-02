@@ -16,10 +16,10 @@ b{
     font-size:2.7rem;
     font-style: italic;
     text-decoration:wavy;
-    /* background-image: url(1d1a93f8-6d9c-4041-acdb-1a266f784d3a.jpg);
+    background-image: url(1d1a93f8-6d9c-4041-acdb-1a266f784d3a.jpg);
     background-size: contain;
     background-clip:text;
-    color: transparent; */
+    color: transparent;
 }
 .container {
   border-radius: 7px 7px 10px 30px;
